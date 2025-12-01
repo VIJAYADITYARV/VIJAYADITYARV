@@ -70,15 +70,6 @@ I thrive in **fast-paced, learning-first environments** and love working on proj
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayadityarv&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadityarv&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
 ## 🔎 What I'm Looking For  
 💼 **Internships** — Cloud, Data, Software Development  
 🔬 **Research Roles** — AI/ML, Systems, Data Science  
@@ -103,4 +94,3 @@ If it helps users, scales well, or solves a real problem — I’m interested.
 
 ---
 
-<h2 align="center">🌟 “Engineering x Cloud x Data — that’s where I create impact.” 🌟</h2>
