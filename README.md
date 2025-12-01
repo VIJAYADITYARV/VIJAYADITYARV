@@ -28,17 +28,38 @@ I thrive in **fast-paced, learning-first environments** and love working on proj
 ---
 
 ## 🛠️ Tech Stack  
-### 🧩 Languages  
-<p><img src="https://skillicons.dev/icons?i=python,cpp,js,java,ts" /></p>
 
-### 🎨 Frontend  
-<p><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" /></p>
+### 🧩 Languages & Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,js,java,html,css,mysql,mongodb" />
+</p>
 
-### ☁️ Cloud & DevOps  
-<p><img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github" /></p>
+### 🚀 Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap,electron" />
+</p>
 
-### 📊 Data, ML & Tools  
-<p><img src="https://skillicons.dev/icons?i=jupyter,mysql" /></p>
+### 📊 Data & Analytics  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+  <br/>
+  <strong>NumPy, Pandas, Matplotlib, Seaborn, DV Tools</strong>
+</p>
+
+### ☁️ Cloud Platforms & Services  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+**AWS Services:** S3 • EC2 • SageMaker • Bedrock  
+
+**Conversational AI:** Dialogflow  
+
+### 🧰 Tools & Developer Environment  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
 
 ---
 
