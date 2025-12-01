@@ -92,9 +92,10 @@ Linux Terminal • Shell Scripting • VS Code Extensions • GitHub Workflows
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayadityarv&theme=tokyonight&show_icons=true&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=vijayadityarv&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijayadityarv&theme=tokyonight&show_icons=true&hide_border=true" height="180" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=vijayadityarv&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak stats"/>
 </p>
+
 
 
 ---
