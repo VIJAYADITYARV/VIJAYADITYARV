@@ -28,8 +28,8 @@ I'm passionate about designing **cloud-ready, data-centric, scalable systems** u
 
 I hold certifications:
 
-✔ **AWS Cloud Practitioner (CCP)**  
-✔ **AWS AI Practitioner**  
+✔ **AWS Cloud Practitioner (CLF - CO2)**  
+✔ **AWS AI Practitioner**  (AIF - CO1)
 
 ---
 
@@ -63,7 +63,6 @@ I hold certifications:
 
 **Data & ML Tools:**  
 Pandas • NumPy • Matplotlib • Seaborn • Statistics • EDA • Data Wrangling  
-IITM DS Tools: Jupyter • Python Workflow • Probability & Random Processes • Data Visualization  
 
 ---
 
@@ -72,27 +71,6 @@ IITM DS Tools: Jupyter • Python Workflow • Probability & Random Processes �
   <img src="https://skillicons.dev/icons?i=arduino" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
 </p>
-
-**Embedded Skills:**  
-Arduino Programming (C/C++) • Microcontroller Basics  
-Sensors & Actuators • Serial Communication (UART/I2C/SPI)  
-Interrupts • Timers • PWM • Real-Time Concepts  
-
----
-
-### ⚙️ College + Engineering Tools (CSE + IITM DS)  
-**Operating Systems:**  
-Process Scheduling • Threads • Deadlocks • Synchronization • FreeRTOS Basics  
-
-**Computer Architecture:**  
-Pipelining • Hazards • Memory Systems • RISC-V basics • SiFive pipeline flow  
-
-**Networks & System Tools:**  
-HTTP • REST APIs • Socket Basics • Postman • cURL • DNS/HTTP fundamentals  
-
-**Algorithms & DSA:**  
-Trees • Graphs • Heaps • Dynamic Programming • String Matching Algorithms  
-(Aho–Corasick, KMP, Rabin–Karp — for your DAA projects)
 
 ---
 
