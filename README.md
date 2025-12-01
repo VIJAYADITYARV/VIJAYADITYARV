@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey, I'm <strong>Vijay Aditya R V</strong> ✨</h1>
+<h1 align="center"> Hi, I'm <strong>Vijay Aditya R V</strong> </h1>
 <h3 align="center">Cloud & Data Enthusiast | AWS Certified (CCP + AI) | CSE @ Amrita | Data Science @ IIT Madras</h3>
 
 <p align="center">
@@ -49,24 +49,6 @@ I thrive in **fast-paced, learning-first environments** and love working on proj
 
 ---
 
-## 📂 Featured Work & Projects  
-- 🛰️ **Drone Delivery System Simulation**  
-  A* Pathfinding • QuadTree • SegmentTree • Obstacle-aware route planning  
-
-- 👨‍⚕️ **AI-Driven Healthcare Platforms**  
-  LLM integrations • medical workflow automation • MERN stack  
-
-- ⌨️ **Interactive Typing Game — "Type to Play" (Hackathon Project)**  
-  Real-time effects • UI/UX animations • algorithm-driven scoring  
-
-- 📊 **Data Science / ML Notebooks**  
-  EDA • Visualizations • statistics • modelling • bootstrapping  
-
-- 🌐 **Full-stack MERN Apps**  
-  Authentication • dashboards • scalable API design  
-
----
-
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIJAYADITYARV&show_icons=true&theme=tokyonight" height="180" />
@@ -88,8 +70,6 @@ If it helps users, scales well, or solves a real problem — I’m interested.
 - 🎬 Creative video editor — timing, flow, soundtrack, perfection  
 - ⚡ Thrive in high-energy, learning-driven environments  
 - 🎯 Growth mindset — always experimenting with new tools  
-- 😂 Debugging teaches me patience more than meditation ever will  
-- 💭 “Build things you wish existed” — my engineering mantra  
 
 ---
 
