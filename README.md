@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Learner • AI/ML Explorer • Cloud Certified • Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="vijay"/>
+  <img src="https://komarev.com/ghpvc/?username=VIJAYADITYARV&label=Profile%20Views&color=0e75b6&style=flat" alt="vijay"/>
 </p>
 
 ---
@@ -12,14 +12,14 @@ I’m a **CSE Student @ Amrita (2023–2027)** and a **BS in Data Science learne
 **software engineering + machine intelligence + creative thinking** to build tech that feels human.
 
 ### 🔥 What Defines Me?
-- 🧠 AI-driven problem solver — learning ML, DL, LLMs, and Agentic AI  
-- 💻 Front-end developer who loves clean UI, micro-interactions & performance  
-- 🚀 Cloud-ready engineer — **AWS Cloud Practitioner & AI Practitioner Certified**  
+- 🧠 AI-driven problem solver — learning ML, DL, LLMs & Agentic AI  
+- 💻 Front-end developer who loves clean, modern UI + micro-interactions  
+- ☁️ Cloud-ready engineer — **AWS Cloud Practitioner & AI Practitioner Certified**  
 - 🎥 Creative storyteller — video editing & digital design  
 - 🏆 Hackathon-ready builder — Drone delivery systems, Typing games, AI healthcare apps  
-- 📊 Data enthusiast — pandas, visualization, statistics, modelling  
+- 📊 Data enthusiast — pandas, statistics, visualization, modelling  
 
-I’m obsessed with **turning ideas into products** — even small ones.
+I believe in one thing: **turn ideas into products**, even small ones.
 
 ---
 
@@ -60,37 +60,12 @@ I’m obsessed with **turning ideas into products** — even small ones.
 ---
 
 ## 🚧 What I'm Currently Building  
-- 👨‍⚕️ **AI-driven Healthcare Ecosystems** (LLM agent workflows + MERN stack)  
-- ⌨️ **“Type to Play” Interactive Typing Game** (hackathon concept)  
+- 👨‍⚕️ **AI-driven Healthcare Ecosystems** (LLM agents + MERN)  
+- ⌨️ **“Type to Play” Interactive Typing Game** (Hackathon-ready)  
 - 🛰️ **Drone Delivery System** – A* Pathfinding + QuadTree + SegmentTree  
-- 📒 **ML Notebooks** – EDA, visualizations, statistical modelling  
-- 🌐 Real-world **MERN projects** crafted for scalability & clarity  
+- 📒 **ML Notebooks** – EDA, visualizations, modelling  
+- 🌐 Real-world **MERN projects** with scalability in mind  
 
 ---
 
-## 📈 GitHub Performance Snapshot  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🎭 A Little Bit of Fun  
-- 🎬 I edit videos like a perfectionist (timing, audio sync, transitions? chef’s kiss).  
-- 🧠 I overthink solutions… until the solution finally overthinks me 😅  
-- ⚡ Learning something new daily — sometimes useful, sometimes just vibes.  
-- 💭 Goal: Build products that people **love**, not just use.  
-
----
-
-## 🤝 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
-
----
-
-<h2 align="center">🌟 “Engineering meets Creativity — that's where my best work happens.” 🌟</h2>
-
+## 📈 GitHub Performance Snapshot
