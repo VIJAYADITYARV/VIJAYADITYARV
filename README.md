@@ -42,13 +42,12 @@ I hold certifications:
 </p>
 
 ---
-
 # 🛠️ Tech Stack  
-*(Static icons, professional and clean)*
+*(Static icons — clean, complete, recruiter-friendly)*
 
 ### 🧩 Languages & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,java,html,css,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,html,css,mysql,mongodb" />
 </p>
 
 ### 🚀 Frameworks & Libraries  
@@ -56,27 +55,54 @@ I hold certifications:
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap,electron" />
 </p>
 
-### ☁️ Cloud & AI  
+### ☁️ Cloud, AI & Data  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
+  <img src="https://skillicons.dev/icons?i=jupyter" />
 </p>
+
+**Data & ML Tools:**  
+Pandas • NumPy • Matplotlib • Seaborn • Statistics • EDA • Data Wrangling  
+IITM DS Tools: Jupyter • Python Workflow • Probability & Random Processes • Data Visualization  
+
+---
+
+### 🔌 Embedded Systems & Hardware  
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+</p>
+
+**Embedded Skills:**  
+Arduino Programming (C/C++) • Microcontroller Basics  
+Sensors & Actuators • Serial Communication (UART/I2C/SPI)  
+Interrupts • Timers • PWM • Real-Time Concepts  
+
+---
+
+### ⚙️ College + Engineering Tools (CSE + IITM DS)  
+**Operating Systems:**  
+Process Scheduling • Threads • Deadlocks • Synchronization • FreeRTOS Basics  
+
+**Computer Architecture:**  
+Pipelining • Hazards • Memory Systems • RISC-V basics • SiFive pipeline flow  
+
+**Networks & System Tools:**  
+HTTP • REST APIs • Socket Basics • Postman • cURL • DNS/HTTP fundamentals  
+
+**Algorithms & DSA:**  
+Trees • Graphs • Heaps • Dynamic Programming • String Matching Algorithms  
+(Aho–Corasick, KMP, Rabin–Karp — for your DAA projects)
+
+---
 
 ### 🧰 Developer Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
----
-
-# 📂 Projects & Work  
-- 🛰️ **Drone Delivery System Simulator** — A*, QuadTree, SegmentTree  
-- 👨‍⚕️ **AI-driven Healthcare Platforms** — LLM workflows, MERN  
-- ⌨️ **"Type to Play" Interactive Typing Game** — Hackathon concept  
-- 📊 **ML/DS Notebooks** — EDA, Visualization, Modelling  
-- 🌐 **Full-stack MERN Applications** — Auth, APIs, Dashboards  
-
----
+**Additional Tools:**  
+Linux Terminal • Shell Scripting • VS Code Extensions • GitHub Workflows  
 
 # 📈 GitHub Stats  
 <p align="center">
@@ -102,4 +128,3 @@ I hold certifications:
 
 ---
 
-<h2 align="center">🌟 “Engineering x Cloud x Data — that’s where I create impact.” 🌟</h2>
