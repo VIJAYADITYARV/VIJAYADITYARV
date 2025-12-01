@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm <strong>Vijay Aditya R V</strong> </h1>
-<h3 align="center">Cloud & Data Enthusiast | AWS Certified (CCP + AI) | CSE @ Amrita | Data Science @ IIT Madras</h3>
+<h3 align="center">Cloud & Data Enthusiast | AWS Certified (CLF-CO2 + AIF-CO1) | CSE @ Amrita | Data Science @ IIT Madras</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VIJAYADITYARV&label=Profile%20Views&color=0e75b6&style=flat" alt="vijay"/>
@@ -64,8 +64,8 @@ I thrive in **fast-paced, learning-first environments** and love working on proj
 ---
 
 ## 🏆 Certifications  
-- ☁️ **AWS Cloud Practitioner (CCP)**  
-- 🤖 **AWS AI Practitioner**  
+- ☁️ **AWS Cloud Practitioner (CLF-CO2)**  
+- 🤖 **AWS AI Practitioner (AIF-CO1)**  
 - 📘 **IIT Madras – Foundation in Data Science**  
 
 ---
