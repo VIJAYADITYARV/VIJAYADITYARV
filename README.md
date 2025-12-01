@@ -1,33 +1,50 @@
-<h1 align="center"> Hi, I'm <strong>Vijay Aditya R V</strong> </h1>
-<h3 align="center">Cloud & Data Enthusiast | AWS Certified (CLF-CO2 + AIF-CO1) | CSE @ Amrita | Data Science @ IIT Madras</h3>
+<!-- =========================
+     ANIMATED BANNER (GIF)
+========================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/banner.gif" width="100%" />
+</p>
+
+<!-- =========================
+     ANIMATED TYPING TITLE
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Vijay+Aditya+R+V;Cloud+%26+Data+Enthusiast;AWS+Certified+(CCP+%2B+AI);CSE+@+Amrita+University;Data+Science+@+IIT+Madras;Full-Stack+%7C+ML+%7C+Cloud+Engineer" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VIJAYADITYARV&label=Profile%20Views&color=0e75b6&style=flat" alt="vijay"/>
+  <img src="https://komarev.com/ghpvc/?username=vijayadityarv&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💡 About Me  
-I’m a **Computer Science undergraduate** at Amrita Vishwa Vidyapeetham and a **BS in Data Science student at IIT Madras**, pursuing a unique blend of **cloud engineering, data analytics, and software development**.
+# 👋 About Me
+I’m **Vijay Aditya R V**, a driven **Cloud & Data Engineering enthusiast** pursuing a dual academic path:
 
-I hold **AWS Cloud Practitioner** and **AWS AI Practitioner** certifications, and I’m passionate about building **cloud-ready, data-centric, scalable solutions** with clean engineering practices.
+🎓 **B.Tech in CSE @ Amrita University**  
+📘 **BS in Data Science @ IIT Madras**
 
-I thrive in **fast-paced, learning-first environments** and love working on projects that combine **logic + design + impact**.
+I'm passionate about designing **cloud-ready, data-centric, scalable systems** using AWS, ML fundamentals, full-stack tools, and clean UI principles.
 
----
+I hold certifications:
 
-## 🚀 What I Do  
-- ☁️ **Cloud Architecture & Deployment (AWS)**  
-- 📊 **Data Analysis & Visualization (Pandas, NumPy, Matplotlib)**  
-- 🌐 **Front-End Development (React, Modern UI, Tailwind)**  
-- 🔍 **DBMS, SQL, Data Modelling**  
-- 🧠 **ML/DL Fundamentals, LLM Exploration, Agentic AI**  
-- 💡 **Algorithmic Thinking & DSA Problem Solving**  
-- 🎨 **Video Editing + Creative Tech Storytelling**
+✔ **AWS Cloud Practitioner (CCP)**  
+✔ **AWS AI Practitioner**  
 
 ---
 
-## 🛠️ Tech Stack  
+# 🚀 Quick Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Role-Cloud%20%7C%20ML%20%7C%20Fullstack-0E75B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certifications-AWS%20CCP%20%2F%20AI%20Practitioner-1F6FEB?style=for-the-badge" />
+</p>
+
+---
+
+# 🛠️ Tech Stack  
+*(Static icons, professional and clean)*
 
 ### 🧩 Languages & Databases  
 <p>
@@ -39,58 +56,50 @@ I thrive in **fast-paced, learning-first environments** and love working on proj
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,bootstrap,electron" />
 </p>
 
-### 📊 Data & Analytics  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,jupyter" />
-  <br/>
-  <strong>NumPy, Pandas, Matplotlib, Seaborn, DV Tools</strong>
-</p>
-
-### ☁️ Cloud Platforms & Services  
+### ☁️ Cloud & AI  
 <p>
   <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
-**AWS Services:** S3 • EC2 • SageMaker • Bedrock  
-
-**Conversational AI:** Dialogflow  
-
-### 🧰 Tools & Developer Environment  
+### 🧰 Developer Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter" />
 </p>
 
+---
+
+# 📂 Projects & Work  
+- 🛰️ **Drone Delivery System Simulator** — A*, QuadTree, SegmentTree  
+- 👨‍⚕️ **AI-driven Healthcare Platforms** — LLM workflows, MERN  
+- ⌨️ **"Type to Play" Interactive Typing Game** — Hackathon concept  
+- 📊 **ML/DS Notebooks** — EDA, Visualization, Modelling  
+- 🌐 **Full-stack MERN Applications** — Auth, APIs, Dashboards  
 
 ---
 
-## 🏆 Certifications  
-- ☁️ **AWS Cloud Practitioner (CLF-CO2)**  
-- 🤖 **AWS AI Practitioner (AIF-CO1)**  
-- 📘 **IIT Madras – Foundation in Data Science**  
+# 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayadityarv&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadityarv&theme=tokyonight" height="180" />
+</p>
 
 ---
 
-## 🔎 What I'm Looking For  
-💼 **Internships** — Cloud, Data, Software Development  
-🔬 **Research Roles** — AI/ML, Systems, Data Science  
-🤝 **Collaborations** — Hackathons, products, impactful ideas  
-
-If it helps users, scales well, or solves a real problem — I’m interested.
-
----
-
-## 🎭 A Bit About Me  
-- 🎬 Creative video editor — timing, flow, soundtrack, perfection  
-- ⚡ Thrive in high-energy, learning-driven environments  
-- 🎯 Growth mindset — always experimenting with new tools  
+# 🎭 Fun Side  
+- 🎬 Skilled video editor with love for cinematic transitions  
+- ⚡ Thrives in fast-paced learning environments  
+- 💡 Builds products that feel meaningful and user-friendly  
+- 😂 Debugging > Meditation — teaches patience  
 
 ---
 
-## 🤝 Connect With Me  
+# 🤝 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/vijay-aditya-r-v"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
-  <a href="mailto:vijayadityarv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>
+  <a href="https://www.linkedin.com/in/vijay-aditya-r-v"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="mailto:vijayadityarv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
 </p>
 
 ---
 
+<h2 align="center">🌟 “Engineering x Cloud x Data — that’s where I create impact.” 🌟</h2>
