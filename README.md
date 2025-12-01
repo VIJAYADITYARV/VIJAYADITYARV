@@ -87,6 +87,11 @@ Linux Terminal • Shell Scripting • VS Code Extensions • GitHub Workflows
   <img src="https://leetcard.jacoblin.cool/VIJAYADITYARV?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/VIJAYADITYARV?theme=dark&font=baloo&border=1&radius=8" />
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
