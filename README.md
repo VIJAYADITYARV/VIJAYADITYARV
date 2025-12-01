@@ -82,10 +82,17 @@ Pandas • NumPy • Matplotlib • Seaborn • Statistics • EDA • Data Wran
 **Additional Tools:**  
 Linux Terminal • Shell Scripting • VS Code Extensions • GitHub Workflows  
 
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VIJAYADITYARV?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayadityarv&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadityarv&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VIJAYADITYARV&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIJAYADITYARV&theme=tokyonight" height="180" />
 </p>
 
 
