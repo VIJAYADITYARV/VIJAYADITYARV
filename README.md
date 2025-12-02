@@ -31,12 +31,11 @@ I'm passionate about designing **cloud-ready, data-centric, scalable systems** u
 <p align="center">
 
   <!-- AWS Cloud Practitioner -->
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.23d7cbe90a66823f9b7c8be3bc39e8e95c1e16a1.png" 
-       alt="AWS Cloud Practitioner Badge" width="140"/>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/iam-aws-badges/cloud-practitioner/main/aws-cloud-practitioner.png" width="140" />
+  <img src="https://raw.githubusercontent.com/iam-aws-badges/ai-practitioner/main/aws-ai-practitioner.png" width="140" />
+</p>
 
-  <!-- AWS AI Practitioner -->
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-AI-Practitioner_badge.8c2e58e461c2f4a3b29c16b6678a4bdd62987b66.png" 
-       alt="AWS AI Practitioner Badge" width="140"/>
 
 </p>
 
