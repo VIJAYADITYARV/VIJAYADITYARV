@@ -2,8 +2,9 @@
      ✨ ANIMATED HERO BANNER (Premium)
 ========================= -->
 <p align="center">
-  <img src="https://i.imgur.com/7Nn0YvV.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhinav-26/Abhinav-26/main/assets/header-banner.gif" width="100%" />
 </p>
+
 
 <!-- =========================
      ✨ GLOWING ANIMATED INTRO CARD
