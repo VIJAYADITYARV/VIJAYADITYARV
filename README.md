@@ -26,12 +26,12 @@ I’m **Vijay Aditya R V**, a driven **Cloud & Data Engineering enthusiast** pur
 
 I'm passionate about designing **cloud-ready, data-centric, scalable systems** using AWS, ML fundamentals, full-stack tools, and clean UI principles.
 
-I hold certifications:
+## 🏅 AWS Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
-✔ **AWS Cloud Practitioner (CLF - CO2)**  
-✔ **AWS AI Practitioner**  (AIF - CO1)
-
----
 
 # 🚀 Quick Highlights
 <p align="center">
