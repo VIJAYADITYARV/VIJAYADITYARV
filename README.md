@@ -1,9 +1,13 @@
 <!-- =========================
      ✨ ANIMATED HERO BANNER (Premium)
 ========================= -->
+<!-- =========================
+     FUN CUSTOM BANNER
+========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhinav-26/Abhinav-26/main/assets/header-banner.gif" width="100%" />
+  <img src="assets/banner.png" width="100%" alt="Fun Dev Banner"/>
 </p>
+
 
 
 <!-- =========================
