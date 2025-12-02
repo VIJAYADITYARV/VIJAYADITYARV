@@ -27,10 +27,28 @@ I’m **Vijay Aditya R V**, a driven **Cloud & Data Engineering enthusiast** pur
 I'm passionate about designing **cloud-ready, data-centric, scalable systems** using AWS, ML fundamentals, full-stack tools, and clean UI principles.
 
 ## 🏅 AWS Certifications
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- AWS Cloud Practitioner -->
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_badge.23d7cbe90a66823f9b7c8be3bc39e8e95c1e16a1.png" 
+       alt="AWS Cloud Practitioner Badge" width="140"/>
+
+  <!-- AWS AI Practitioner -->
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-AI-Practitioner_badge.8c2e58e461c2f4a3b29c16b6678a4bdd62987b66.png" 
+       alt="AWS AI Practitioner Badge" width="140"/>
+
 </p>
+
+### 🌩️ AWS Cloud Practitioner (CLF-C02)
+The AWS Cloud Practitioner certification validates foundational cloud knowledge, core AWS services, global infrastructure, pricing, security, and best practices.  
+It demonstrates your ability to understand cloud concepts and contribute confidently to AWS-based projects.
+
+### 🤖 AWS AI Practitioner (AIF-C01)
+The AWS AI Practitioner certification showcases your understanding of Generative AI, responsible AI, foundation models, and AWS AI/ML services like SageMaker and Bedrock.  
+It proves your readiness to design or support AI-driven solutions using AWS technologies.
+
+---
 
 
 # 🚀 Quick Highlights
