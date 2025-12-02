@@ -14,7 +14,7 @@
      ✨ GLOWING ANIMATED INTRO CARD
 ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=2800&pause=1000&color=00C3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Vijay+Aditya+R+V+👋;Cloud+%26+Data+Enthusiast+☁️;AWS+Certified+(CCP+%2B+AI)+⚡;CSE+@+Amrita+University+🎓;Data+Science+@+IIT+Madras+📘;Full+Stack+%7C+ML+%7C+Cloud+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=2800&pause=1000&color=00C3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Vijay+Aditya+R+V+👋;Cloud+%26+Data+Enthusiast+☁️;AWS+Certified+(CLF+%2B+AIF)+⚡;CSE+@+Amrita+University+🎓;Data+Science+@+IIT+Madras+📘;Full+Stack+%7C+ML+%7C+Cloud+Engineer+🚀" />
 </p>
 
 <!-- =========================
