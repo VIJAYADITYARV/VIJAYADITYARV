@@ -5,7 +5,7 @@
      FUN CUSTOM BANNER
 ========================= -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Fun Dev Banner"/>
+  <img src="assets/banner2.png" width="100%" alt="Fun Dev Banner"/>
 </p>
 
 
