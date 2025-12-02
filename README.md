@@ -29,11 +29,8 @@ I'm passionate about designing **cloud-ready, data-centric, scalable systems** u
 ## 🏅 AWS Certifications
 
 <p align="center">
-
-  <!-- AWS Cloud Practitioner -->
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/iam-aws-badges/cloud-practitioner/main/aws-cloud-practitioner.png" width="140" />
-  <img src="https://raw.githubusercontent.com/iam-aws-badges/ai-practitioner/main/aws-ai-practitioner.png" width="140" />
+  <img src="assets/cloud.png" width="140" alt="AWS Cloud Practitioner"/>
+  <img src="assets/AI.png" width="140" alt="AWS AI Practitioner"/>
 </p>
 
 
@@ -41,11 +38,11 @@ I'm passionate about designing **cloud-ready, data-centric, scalable systems** u
 
 ### 🌩️ AWS Cloud Practitioner (CLF-C02)
 The AWS Cloud Practitioner certification validates foundational cloud knowledge, core AWS services, global infrastructure, pricing, security, and best practices.  
-It demonstrates your ability to understand cloud concepts and contribute confidently to AWS-based projects.
+It demonstrates my ability to understand cloud concepts and contribute confidently to AWS-based projects.
 
 ### 🤖 AWS AI Practitioner (AIF-C01)
-The AWS AI Practitioner certification showcases your understanding of Generative AI, responsible AI, foundation models, and AWS AI/ML services like SageMaker and Bedrock.  
-It proves your readiness to design or support AI-driven solutions using AWS technologies.
+The AWS AI Practitioner certification showcases my understanding of Generative AI, responsible AI, foundation models, and AWS AI/ML services like SageMaker and Bedrock.  
+It proves my readiness to design or support AI-driven solutions using AWS technologies.
 
 ---
 
@@ -122,4 +119,6 @@ Linux Terminal • Shell Scripting • VS Code Extensions • GitHub Workflows
 </p>
 
 ---
+
+
 
