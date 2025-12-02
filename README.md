@@ -1,20 +1,35 @@
 <!-- =========================
-     ANIMATED BANNER (GIF)
+     ✨ ANIMATED HERO BANNER (Premium)
 ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/banner.gif" width="100%" />
+  <img src="https://i.imgur.com/ybZQZ0R.gif" width="100%" />
 </p>
 
 <!-- =========================
-     ANIMATED TYPING TITLE
+     ✨ GLOWING ANIMATED INTRO CARD
 ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Vijay+Aditya+R+V;Cloud+%26+Data+Enthusiast;AWS+Certified+(CCP+%2B+AI);CSE+@+Amrita+University;Data+Science+@+IIT+Madras;Full-Stack+%7C+ML+%7C+Cloud+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=35&duration=2800&pause=1000&color=00C3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Vijay+Aditya+R+V+👋;Cloud+%26+Data+Enthusiast+☁️;AWS+Certified+(CCP+%2B+AI)+⚡;CSE+@+Amrita+University+🎓;Data+Science+@+IIT+Madras+📘;Full+Stack+%7C+ML+%7C+Cloud+Engineer+🚀" />
 </p>
 
+<!-- =========================
+     ✨ PROFILE VIEWS (Glass Style)
+========================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijayadityarv&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vijayadityarv&label=Visitors&color=00c3ff&style=flat-square" />
 </p>
+
+<!-- =========================
+     ✨ FUN BADGES (Bright + Animated Feel)
+========================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💡%20Innovator-00C3FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥%20Fast%20Learner-FF6A3D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯%20Consistent%20Coder-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Building%20Cool%20Stuff-1ABC9C?style=for-the-badge" />
+</p>
+
+---
 
 ---
 
