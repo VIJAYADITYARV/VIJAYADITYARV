@@ -24,18 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=vijayadityarv&label=Visitors&color=00c3ff&style=flat-square" />
 </p>
 
-<!-- =========================
-     ✨ FUN BADGES (Bright + Animated Feel)
-========================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💡%20Innovator-00C3FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥%20Fast%20Learner-FF6A3D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯%20Consistent%20Coder-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀%20Building%20Cool%20Stuff-1ABC9C?style=for-the-badge" />
-</p>
-
----
-
 ---
 
 # 👋 About Me
