@@ -72,17 +72,40 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
-## 🛠 Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### ☁️ Cloud & Platforms
+<details>
+<summary><strong>🧩 Programming Languages</strong></summary>
+
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><strong>☁️ Cloud & Platforms</strong></summary>
+
+<br/>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
+</details>
+
 ---
 
-### 📊 Data Science & Analytics
+<details>
+<summary><strong>📊 Data Science & Analytics</strong></summary>
+
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
@@ -91,9 +114,15 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter)
 
+</details>
+
 ---
 
-### 🤖 Machine Learning & AI
+<details>
+<summary><strong>🤖 Machine Learning & AI</strong></summary>
+
+<br/>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
@@ -101,9 +130,15 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 ![NLTK](https://img.shields.io/badge/NLP%20%2F%20NLTK-154F5B?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
+</details>
+
 ---
 
-### 🌐 Full Stack Development
+<details>
+<summary><strong>🌐 Full Stack Development</strong></summary>
+
+<br/>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -114,38 +149,63 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
+</details>
+
 ---
 
-### 🗄️ Databases & Storage
+<details>
+<summary><strong>🗄️ Databases & Storage</strong></summary>
+
+<br/>
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
+</details>
+
 ---
 
-### 🔌 Embedded Systems & Low-Level
+<details>
+<summary><strong>🔌 Embedded Systems & Low-Level</strong></summary>
+
+<br/>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-003366?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
 ![UART](https://img.shields.io/badge/UART%20%2F%20I2C%20%2F%20SPI-555555?style=for-the-badge)
 
+</details>
+
 ---
 
-### 🖥️ OS, Terminal & Scripting
+<details>
+<summary><strong>🖥️ OS, Terminal & Scripting</strong></summary>
+
+<br/>
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash%20Scripting-121011?style=for-the-badge&logo=gnubash)
 ![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
+</details>
+
 ---
 
-### ⚙️ Developer Tools & Workflow
+<details>
+<summary><strong>⚙️ Developer Tools & Workflow</strong></summary>
+
+<br/>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge)
 
----
+</details>
+
 
 ### 🧠 Core Engineering Skills
 ✔ Data Analysis & Visualization  
