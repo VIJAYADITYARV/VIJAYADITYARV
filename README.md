@@ -65,11 +65,11 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 
 ---
 # 🛠️ Tech Stack  
-*(Static icons — clean, complete, recruiter-friendly)*
 
-### 🧩 Languages & Databases  
+
+### 🧩 Programming Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,html,css,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
 ## 🛠 Tech Stack & Skills
@@ -79,7 +79,6 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
 
 ---
 
@@ -89,6 +88,7 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter)
 
 ---
@@ -119,7 +119,6 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 ### 🗄️ Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb)
 
 ---
 
