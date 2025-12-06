@@ -64,15 +64,7 @@ It proves my readiness to design or support AI-driven solutions using AWS techno
 </p>
 
 ---
-# 🛠️ Tech Stack  
-
-
-### 🧩 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-</p>
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <details>
 <summary><strong>🧩 Programming Languages</strong></summary>
