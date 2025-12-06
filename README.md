@@ -1,24 +1,4 @@
-<!-- =========================
-     ✨ HERO BANNER
-========================= -->
-<p align="center">
-  <img src="assets/banner2.png" width="100%" alt="Vijay Aditya | Developer Banner"/>
-</p>
-
-<!-- =========================
-     ✨ ANIMATED INTRO
-========================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=34&duration=2800&pause=1000&color=00C3FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Vijay+Aditya+R+V+👋;Cloud+%26+Data+Enthusiast+☁️;AWS+Certified+(CLF+%2B+AIF)+⚡;CSE+@+Amrita+University+🎓;Data+Science+@+IIT+Madras+📘;Full+Stack+%7C+ML+%7C+Cloud+Engineering+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijayadityarv&label=Visitors&color=00c3ff&style=flat-square" />
-</p>
-
----
-
-## 👋 About Me
+# 👋 About Me
 
 I’m **Vijay Aditya R V**, a **Cloud, Data & Systems-focused engineer** pursuing a dual academic journey:
 
