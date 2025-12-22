@@ -1,413 +1,202 @@
-<div align="center">
+# 👋 About Me
 
-# 👋 Hi, I'm Vijay Aditya R V
+I’m **Vijay Aditya R V**, a **Cloud, Data & Systems-focused engineer** pursuing a dual academic journey:
 
-### Cloud Engineer | Data Scientist | Full-Stack Developer
+- 🎓 **B.Tech in Computer Science & Engineering** – Amrita Vishwa Vidyapeetham  
+- 📘 **BS in Data Science** – IIT Madras  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://VIJAYADITYARV.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijay-aditya-r-v)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vijayadityarv@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/VIJAYADITYARV)
-
-![Profile Views](https://komarev.com/ghpvc/?username=VIJAYADITYARV&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a **Cloud, Data & Systems-focused engineer** passionate about building **scalable, cloud-ready systems** that drive real-world impact. Currently pursuing a dual academic journey while actively exploring opportunities in software engineering, cloud architecture, and AI/ML.
-
-```yaml
-current_focus:
-  - ☁️ Cloud-Native Application Development
-  - 🤖 AI/ML Integration & Deployment
-  - 📊 Data Engineering & Analytics
-  - 🔧 System Design & Architecture
-
-seeking:
-  - 💼 Internship Opportunities
-  - 🤝 Open Source Collaborations
-  - 🚀 Innovative Projects
-```
-
-### 🎓 Education
-
-<table>
-<tr>
-<td width="50%">
-<b>🎓 B.Tech in Computer Science & Engineering</b><br/>
-<i>Amrita Vishwa Vidyapeetham, Coimbatore</i><br/>
-📊 CGPA: 8.23/10<br/>
-📅 2023 – Present
-</td>
-<td width="50%">
-<b>📘 BS in Data Science and Applications</b><br/>
-<i>Indian Institute of Technology Madras</i><br/>
-🏆 Foundation: Distinction<br/>
-📅 2023 – Present
-</td>
-</tr>
-</table>
+I enjoy building **scalable, cloud-ready systems**, working across **data, ML, full-stack, and embedded layers**, with a strong focus on clarity, performance, and real-world impact.
 
 ---
 
 ## 🏅 AWS Certifications
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/cloud.png" width="150" /><br/>
-<b>☁️ AWS Certified Cloud Practitioner</b><br/>
-<i>CLF-C02 | June 2025</i><br/>
-<sub>AWS infrastructure, IAM, EC2, S3, pricing models, security best practices</sub><br/><br/>
-<a href="https://www.credly.com/badges/0916c73d-2c1d-42ac-914f-62a690232ff2/public_url">
-<img src="https://img.shields.io/badge/View_Badge-0052CC?style=for-the-badge&logo=aws&logoColor=white" />
-</a>
-</td>
-<td align="center" width="50%">
-<img src="assets/AI.png" width="150" /><br/>
-<b>🤖 AWS Certified AI Practitioner</b><br/>
-<i>AIF-C01 | June 2025</i><br/>
-<sub>GenAI, foundation models, responsible AI, SageMaker, Bedrock services</sub><br/><br/>
-<a href="https://www.credly.com/badges/4b7af6f2-8497-42bf-abd3-86af5c86c840/public_url">
-<img src="https://img.shields.io/badge/View_Badge-0052CC?style=for-the-badge&logo=aws&logoColor=white" />
-</a>
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="assets/cloud.png" width="135" />
+  <img src="assets/AI.png" width="135" />
+</p>
+
+### ☁️ AWS Cloud Practitioner (CLF-C02)
+Validates foundational understanding of AWS services, global infrastructure, security, pricing, and cloud best practices — enabling confident collaboration on AWS-based solutions.
+
+### 🤖 AWS AI Practitioner (AIF-C01)
+Covers Generative AI concepts, responsible AI, foundation models, and AWS AI/ML services such as **SageMaker** and **Bedrock**, supporting AI-driven solution design.
 
 ---
 
-## 💻 Tech Stack
-
-<details open>
-<summary><b>🧩 Programming Languages</b></summary>
-<br/>
+## 🚀 Quick Highlights
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Data%20%7C%20ML-0E75B6?style=for-the-badge" />
 </p>
-</details>
 
-<details>
-<summary><b>☁️ Cloud & Platforms</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-</details>
+---
+
+# 🛠️ Tech Stack
 
 <details>
-<summary><b>📊 Data Science & Analytics</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-</details>
+<summary><strong>🧩 Programming Languages</strong></summary>
 
-<details>
-<summary><b>🤖 Machine Learning & AI</b></summary>
 <br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP_NLTK-154F5B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-</details>
 
-<details>
-<summary><b>🌐 Full-Stack Development</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
-</details>
 
-<details>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>🔌 Embedded Systems & IoT</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_C-003366?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/UART_I2C_SPI-555555?style=for-the-badge&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>🖥️ DevOps & Tools</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
 </details>
 
 ---
 
-## 🎯 Core Engineering Strengths
+<details>
+<summary><strong>☁️ Cloud & Platforms</strong></summary>
 
-<div align="center">
+<br/>
 
-```mermaid
-mindmap
-  root((Engineering Skills))
-    Data & Analytics
-      Data Visualization
-      Statistical Analysis
-      ETL Pipelines
-    Machine Learning
-      Model Training
-      Deployment
-      MLOps
-    Full-Stack Development
-      REST APIs
-      Frontend/Backend
-      Database Design
-    System Design
-      Architecture Patterns
-      Scalability
-      Optimization
-    Problem Solving
-      DSA
-      Algorithms
-      Debugging
-```
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-<b>📊 Data Engineering</b><br/>
-Data Analysis & Visualization<br/>
-ETL Pipeline Development<br/>
-Statistical Modeling
-</td>
-<td width="33%" align="center">
-<b>🤖 ML Engineering</b><br/>
-Model Training & Deployment<br/>
-Feature Engineering<br/>
-MLOps Best Practices
-</td>
-<td width="33%" align="center">
-<b>🏗️ System Design</b><br/>
-Scalable Architecture<br/>
-API Design & Development<br/>
-Performance Optimization
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<b>🧩 Problem Solving</b><br/>
-DSA & Algorithms<br/>
-Competitive Programming<br/>
-Logical Thinking
-</td>
-<td width="33%" align="center">
-<b>☁️ Cloud Architecture</b><br/>
-AWS Services<br/>
-Serverless Computing<br/>
-Infrastructure as Code
-</td>
-<td width="33%" align="center">
-<b>🚀 Project Management</b><br/>
-End-to-End Execution<br/>
-Agile Methodologies<br/>
-Team Collaboration
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 📈 GitHub Statistics
+<details>
+<summary><strong>📊 Data Science & Analytics</strong></summary>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIJAYADITYARV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYADITYARV&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<br/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIJAYADITYARV&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter)
 
----
-
-## 🏆 LeetCode Journey
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/VIJAYADITYARV?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
-</div>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VIJAYADITYARV)
-
-</div>
+</details>
 
 ---
 
-## 🚀 Featured Projects
+<details>
+<summary><strong>🤖 Machine Learning & AI</strong></summary>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🌾 AgriVision AI</h3>
-<div align="center">
-<a href="https://github.com/VIJAYADITYARV" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github" />
-</a>
-<p><strong>Python • TensorFlow • Flask • CNN</strong></p>
-<p>Plant disease detection system using custom CNN achieving 95% accuracy with real-time image classification.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🚗 CrashSense Embedded</h3>
-<div align="center">
-<a href="https://github.com/VIJAYADITYARV/AutoCrashRescue-Embedded" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github" />
-</a>
-<p><strong>Embedded C • STM32 • UART • I2C</strong></p>
-<p>Dual-MCU accident detection system with interrupt-driven logic and Bluetooth emergency alerts.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🛒 GAVNN TECH</h3>
-<div align="center">
-<a href="https://github.com/VIJAYADITYARV" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github" />
-</a>
-<p><strong>Electron.js • JavaScript • Bootstrap</strong></p>
-<p>Cross-platform e-commerce desktop application with animated UI and responsive design.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🤖 AI Food Chatbot</h3>
-<div align="center">
-<a href="https://github.com/VIJAYADITYARV" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github" />
-</a>
-<p><strong>Dialogflow • FastAPI • MySQL</strong></p>
-<p>AI-driven conversational chatbot with multi-turn dialog flows and order management system.</p>
-</div>
-</td>
-</tr>
-</table>
+<br/>
 
-<div align="center">
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![NLTK](https://img.shields.io/badge/NLP%20%2F%20NLTK-154F5B?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-0e75b6?style=for-the-badge&logo=github)](https://github.com/VIJAYADITYARV?tab=repositories)
+</details>
 
-</div>
+---
+
+<details>
+<summary><strong>🌐 Full Stack Development</strong></summary>
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🗄️ Databases & Storage</strong></summary>
+
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🔌 Embedded Systems & Low-Level</strong></summary>
+
+<br/>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-003366?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![UART](https://img.shields.io/badge/UART%20%2F%20I2C%20%2F%20SPI-555555?style=for-the-badge)
+
+</details>
+
+---
+
+<details>
+<summary><strong>🖥️ OS, Terminal & Scripting</strong></summary>
+
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash%20Scripting-121011?style=for-the-badge&logo=gnubash)
+![Shell](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+</details>
+
+---
+
+<details>
+<summary><strong>⚙️ Developer Tools & Workflow</strong></summary>
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge)
+
+</details>
+
+
+---
+
+## 🧠 Core Engineering Strengths
+- Data Analysis & Visualization  
+- Machine Learning Fundamentals  
+- REST API Design  
+- System & Logical Thinking  
+- Debugging & Optimization  
+- DSA-oriented Problem Solving  
+- End-to-End Project Execution  
+
+---
+
+## 🧠 LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VIJAYADITYARV?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
 
 ---
 
 ## 🎭 Beyond Code
-
-<div align="center">
-
-| 🎬 | 🎤 | 🤝 | 🎨 |
-|:---:|:---:|:---:|:---:|
-| **Video Editing** | **Public Speaking** | **Team Collaboration** | **Visual Storytelling** |
-| Creating engaging content | Confident presenter | Problem-solving together | Design & creativity |
-
-</div>
+- 🎬 Video editing & visual storytelling  
+- 🎤 Confident public speaker  
+- 🤝 Enjoy collaborative problem solving  
 
 ---
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always interested in collaborating on innovative projects, discussing technology, or exploring new opportunities!
-
+## 🤝 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/vijay-aditya-r-v" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vijayadityarv@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://VIJAYADITYARV.github.io" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://leetcode.com/VIJAYADITYARV" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+  <a href="https://www.linkedin.com/in/vijay-aditya-r-v"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+  <a href="mailto:vijayadityarv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"/></a>
 </p>
-
-### 💼 Open to Opportunities
-
-```yaml
-looking_for:
-  - Software Engineering Internships
-  - Cloud/Data Engineering Roles
-  - AI/ML Projects
-  - Open Source Collaborations
-```
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 This Week's Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<sub>⭐️ From [VIJAYADITYARV](https://github.com/VIJAYADITYARV) | Last updated: December 2024</sub>
-
-</div>
-
----
-
-<div align="center">
-
-**💡 "Building the future, one commit at a time."**
-
-![Snake animation](https://raw.githubusercontent.com/VIJAYADITYARV/VIJAYADITYARV/output/github-contribution-grid-snake.svg)
-
-</div>
