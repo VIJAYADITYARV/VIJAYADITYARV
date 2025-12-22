@@ -6,10 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)](https://VIJAYADITYARV.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijay-aditya-r-v)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vijayadityarv@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/VIJAYADITYARV)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VIJAYADITYARV&color=0e75b6&style=for-the-badge)
 
 </div>
 
