@@ -19,7 +19,7 @@
 
 I'm a **Cloud, Data & Systems-focused engineer** passionate about building **scalable, cloud-ready systems** that drive real-world impact. Currently pursuing a dual academic journey while actively exploring opportunities in software engineering, cloud architecture, and AI/ML.
 
-```yaml
+
 current_focus:
   - ☁️ Cloud-Native Application Development
   - 🤖 AI/ML Integration & Deployment
@@ -30,10 +30,10 @@ seeking:
   - 💼 Internship Opportunities
   - 🤝 Open Source Collaborations
   - 🚀 Innovative Projects
-```
 
 ### 🎓 Education
 
+<div align = "center">
 <table>
 <tr>
 <td width="50%">
@@ -50,6 +50,7 @@ seeking:
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -391,23 +392,9 @@ looking_for:
 
 ---
 
-<div align="center">
-
-### 📊 This Week's Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<sub>⭐️ From [VIJAYADITYARV](https://github.com/VIJAYADITYARV) | Last updated: December 2024</sub>
-
-</div>
-
----
 
 <div align="center">
 
 **💡 "Building the future, one commit at a time."**
-
-![Snake animation](https://raw.githubusercontent.com/VIJAYADITYARV/VIJAYADITYARV/output/github-contribution-grid-snake.svg)
 
 </div>
