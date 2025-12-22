@@ -187,34 +187,6 @@ seeking:
 ## 🎯 Core Engineering Strengths
 
 <div align="center">
-
-```mermaid
-mindmap
-  root((Engineering Skills))
-    Data & Analytics
-      Data Visualization
-      Statistical Analysis
-      ETL Pipelines
-    Machine Learning
-      Model Training
-      Deployment
-      MLOps
-    Full-Stack Development
-      REST APIs
-      Frontend/Backend
-      Database Design
-    System Design
-      Architecture Patterns
-      Scalability
-      Optimization
-    Problem Solving
-      DSA
-      Algorithms
-      Debugging
-```
-
-</div>
-
 <table>
 <tr>
 <td width="33%" align="center">
@@ -257,7 +229,7 @@ Team Collaboration
 </td>
 </tr>
 </table>
-
+</div>>
 ---
 
 ## 🏆 LeetCode Journey
