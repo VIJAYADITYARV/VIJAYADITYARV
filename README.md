@@ -4,7 +4,8 @@
 
 ### Cloud Engineer | Data Scientist | Full-Stack Developer
 
-[![Website](https://img.shields.io/badge/Website-Visit-black?style=for-the-badge&logo=google-chrome)](https://VIJAYADITYARV.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat)](https://VIJAYADITYARV.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Aditya-000000?style=flat)](https://www.linkedin.com/in/vijay-aditya-r-v)
 
 
 
