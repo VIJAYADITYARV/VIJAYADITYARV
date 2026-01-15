@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Cloud, Data & Systems-focused engineer** passionate about building **scalable, cloud-ready systems** that drive real-world impact. Currently pursuing a dual academic journey while actively exploring opportunities in software engineering, cloud architecture, and AI/ML.
 
