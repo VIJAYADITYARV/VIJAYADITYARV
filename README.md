@@ -42,9 +42,9 @@ seeking:
 📅 2023 – Present
 </td>
 <td width="50%">
-<b>📘 BS in Data Science and Applications</b><br/>
+<b>🎓 BS in Data Science and Applications</b><br/>
 <i>Indian Institute of Technology Madras</i><br/>
-🏆 Foundation: Distinction<br/>
+🏆 Foundation<br/>
 📅 2023 – Present
 </td>
 </tr>
