@@ -231,19 +231,7 @@ Team Collaboration
 </div>>
 ---
 
-## 🏆 LeetCode Journey
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/VIJAYADITYARV?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
-</div>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VIJAYADITYARV)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
