@@ -38,7 +38,7 @@ seeking:
 <td width="50%">
 <b>🎓 B.Tech in Computer Science & Engineering</b><br/>
 <i>Amrita Vishwa Vidyapeetham, Coimbatore</i><br/>
-📊 CGPA: 8.31/10<br/>
+📊 CGPA: 8.36/10<br/>
 📅 2023 – Present
 </td>
 <td width="50%">
